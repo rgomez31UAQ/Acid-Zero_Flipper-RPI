@@ -405,7 +405,7 @@ Released under the MIT License — see **[LICENSE](LICENSE)**. The permissive li
 
 ## Author
 
-**Chetan Saini** — senior software architect (14+ yrs) and security researcher. Filed CVE for the Releasit COD Form Shopify app (**CWE-602 + CWE-798**, MITRE candidate **#1999827**). GitHub: [@chetansaini53](https://github.com/chetansaini53) · Contact: **chetansaini53@gmail.com**
+**Chetan Saini** — senior software architect (14+ yrs) and security researcher. Published CVE: **[CVE-2026-84110](https://vuldb.com/?id.397555)**. GitHub: [@chetansaini53](https://github.com/chetansaini53) · Contact: **chetansaini53@gmail.com**
 
 Built to demonstrate end-to-end depth: a hand-built framebuffer renderer, an evdev + least-squares touch stack, a deterministic multi-radio binding layer, a real native-plugin ABI, and a from-scratch PDF writer — assembled into a coherent, responsive handheld on constrained hardware.
 
